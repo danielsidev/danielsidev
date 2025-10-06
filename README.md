@@ -66,8 +66,12 @@ These are some of the technologies and tools that I work with:
 
 ![RabbitMQ Badge](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Google Pub/Sub Badge](https://img.shields.io/badge/Google%20Pub%2FSub-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![AWS SQS Badge](https://img.shields.io/badge/AWS%20SQS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS SQS Badge](https://img.shields.io/badge/AWS%20SQS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 
+
+### Observability:
+![Slack Alerts](https://img.shields.io/badge/Slack%20Alerts-Notifications-4A154B?style=for-the-badge&logo=slack&logoColor=white) 
+![Sentry](https://img.shields.io/badge/Sentry-Error%20Monitoring-black?style=for-the-badge&logo=sentry&logoColor=white) ![Grafana Loki](https://img.shields.io/badge/Grafana%20Loki-Log%20Aggregation-000000?style=for-the-badge&logo=grafanaloki&logoColor=5EE4D8) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-Observability-A719C0?style=for-the-badge&logo=opentelemetry&logoColor=white) ![Datadog](https://img.shields.io/badge/Datadog-Monitoring-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
 ### Cloud:
 
 ![Nginx Badge](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
@@ -88,6 +92,8 @@ These are some of the technologies and tools that I work with:
 ![Docker-Compose](https://img.shields.io/badge/Docker-Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Docker-Swarm](https://img.shields.io/badge/Docker-Swarm-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 [![AWS CloudFormation](https://img.shields.io/badge/AWS%20CloudFormation-232F3E?style=for-the-badge&logo=amazonaws&logoColor=ff9900)](https://aws.amazon.com/cloudformation/)
+
+
 
 ### Tools:
 
