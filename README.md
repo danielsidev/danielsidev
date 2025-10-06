@@ -70,8 +70,12 @@ These are some of the technologies and tools that I work with:
 
 
 ### Observability:
-![Slack Alerts](https://img.shields.io/badge/Slack%20Alerts-Notifications-4A154B?style=for-the-badge&logo=slack&logoColor=white) 
-![Sentry](https://img.shields.io/badge/Sentry-Error%20Monitoring-black?style=for-the-badge&logo=sentry&logoColor=white) ![Grafana Loki](https://img.shields.io/badge/Grafana%20Loki-Log%20Aggregation-000000?style=for-the-badge&logo=grafanaloki&logoColor=5EE4D8) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-Observability-A719C0?style=for-the-badge&logo=opentelemetry&logoColor=white) ![Datadog](https://img.shields.io/badge/Datadog-Monitoring-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+
+![Slack](https://img.shields.io/badge/Slack-E01E5A?style=for-the-badge&logo=slack&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-4D2A82?style=for-the-badge&logo=sentry&logoColor=white) ![Grafana Loki](https://img.shields.io/badge/Grafana%20Loki-000000?style=for-the-badge&logo=grafana&logoColor=F46800) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-A719C0?style=for-the-badge&logo=opentelemetry&logoColor=white) ![Datadog](https://img.shields.io/badge/Datadog-7038CC?style=for-the-badge&logo=datadog&logoColor=white)
+
+
+
 ### Cloud:
 
 ![Nginx Badge](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
