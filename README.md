@@ -19,7 +19,7 @@ These are some of the technologies and tools that I work with:
 ### Backend:
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Fiber](https://img.shields.io/badge/GoFiber-00ADD8?style=for-the-badge&logo=gofiber&logoColor=white)
+![Go Fiber](https://img.shields.io/badge/Go%20Fiber-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=gin&logoColor=white)
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
