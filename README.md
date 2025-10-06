@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Daniel Siqueira. a hands-on Software Engineering Lead, and I've been working in tech since 2008.
+I'm Daniel Siqueira, a hands-on Software Engineering Lead, and I've been working in tech since 2008.
 
 ### More about me :
 
