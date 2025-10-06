@@ -75,11 +75,12 @@ These are some of the technologies and tools that I work with:
 ![Sentry](https://img.shields.io/badge/Sentry-4D2A82?style=for-the-badge&logo=sentry&logoColor=white) ![Grafana Loki](https://img.shields.io/badge/Grafana%20Loki-000000?style=for-the-badge&logo=grafana&logoColor=F46800) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-A719C0?style=for-the-badge&logo=opentelemetry&logoColor=white) ![Datadog](https://img.shields.io/badge/Datadog-7038CC?style=for-the-badge&logo=datadog&logoColor=white)
 
 
-
-### Cloud:
+### Web Servers:
 
 ![Nginx Badge](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Apache Badge](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+
+### Cloud:
 
 ![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![GCP Cloud DNS Badge](https://img.shields.io/badge/Cloud_DNS-FF6F00?style=for-the-badge&logo=google-cloud&logoColor=white)
