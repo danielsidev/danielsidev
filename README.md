@@ -16,6 +16,12 @@ I'm Daniel Siqueira, a hands-on Software Engineering Lead, and I've been working
 
 These are some of the technologies and tools that I work with:
 
+### GenAi - LLM's:
+
+![Google Gemini](https://img.shields.io/badge/Gemini-Google-0077B6?style=for-the-badge&logo=google&logoColor=white)
+![OpenAI GPT](https://img.shields.io/badge/GPT-OpenAI-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic Claude](https://img.shields.io/badge/Claude-Anthropic-9B59B6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MCA1MCI+PHBhdGggZmlsbD0iI0ZGRkZGRiIgZD0iTTAgMGg1MHY1MEgweiIvPjxwYXRoIGZpbGw9IiM5QjU5QjYiIGQ9Ik00MCA0MEgxMFYxMEg0MHoiLz48cGF0aCBmaWxsPSIjRkZGRkZGIiBkPSJNMTggMzhsLTEuMjUtMS45TDI1IDIzLjVMMTYuNzUgMjEuMUwyNSAxMC4yNSA0MiAzOCAxOCAzOHpNNTAtMzhsLTkuMjUgMi42MUwyNSAzMi44Nkw3LjI1IDM4IDI1IDkuNzVoLTEuMjVMNy43NSAxMS45bDE2LjUtMjAuNTVIMzMuMjVMMTkuMjUgNDEuNjlMMjUgNTkuOTFIMjguNzVMNDEgMTQuMDhMNTEuMjUgMTAuNTNMNDUuMjUgNy45MUw0MiAxMFoiLz48L3N2Zz4=&logoColor=white)
+
 ### Backend:
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
