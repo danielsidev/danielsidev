@@ -87,7 +87,7 @@ These are some of the technologies and tools that I work with:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Docker-Compose](https://img.shields.io/badge/Docker-Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Docker-Swarm](https://img.shields.io/badge/Docker-Swarm-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+[![AWS CloudFormation](https://img.shields.io/badge/AWS%20CloudFormation-232F3E?style=for-the-badge&logo=amazonaws&logoColor=ff9900)](https://aws.amazon.com/cloudformation/)
 
 ### Tools:
 
