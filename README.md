@@ -91,7 +91,7 @@ These are some of the technologies and tools that I work with:
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 [![Amazon ECS](https://img.shields.io/badge/Amazon%20ECS-e26404?style=for-the-badge&logo=amazonaws&logoColor=ff9900)](https://aws.amazon.com/ecs/)
-![Amazon EC2](https://img.shields.io/badge/Amazon_EC2-FF6F00?style=for-the-badge&logo=amazon-ec2&logoColor=white) ![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white) ![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FBBC04?style=for-the-badge&logo=aws-lambda&logoColor=white)
+![Amazon EC2](https://img.shields.io/badge/Amazon_EC2-FF6F00?style=for-the-badge&logo=amazon-ec2&logoColor=white) ![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white) ![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FBBC04?style=for-the-badge&logo=aws-lambda&logoColor=white) ![AWS CloudWatch](https://img.shields.io/badge/AWS_CloudWatch-FF9900?style=for-the-badge&logo=aws-cloudwatch&logoColor=white)
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Docker-Compose](https://img.shields.io/badge/Docker-Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
